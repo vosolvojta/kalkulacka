@@ -1,0 +1,7 @@
+C:\Users\vosol.vo.2022\source\repos\kalkulacka\kalkulacka\obj\Debug\kalkulacka.csprojAssemblyReference.cache
+C:\Users\vosol.vo.2022\source\repos\kalkulacka\kalkulacka\obj\Debug\kalkulacka.csproj.CoreCompileInputs.cache
+C:\Users\vosol.vo.2022\source\repos\kalkulacka\kalkulacka\bin\Debug\kalkulacka.exe.config
+C:\Users\vosol.vo.2022\source\repos\kalkulacka\kalkulacka\bin\Debug\kalkulacka.exe
+C:\Users\vosol.vo.2022\source\repos\kalkulacka\kalkulacka\bin\Debug\kalkulacka.pdb
+C:\Users\vosol.vo.2022\source\repos\kalkulacka\kalkulacka\obj\Debug\kalkulacka.exe
+C:\Users\vosol.vo.2022\source\repos\kalkulacka\kalkulacka\obj\Debug\kalkulacka.pdb
